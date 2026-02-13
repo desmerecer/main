@@ -4460,7 +4460,7 @@ function rares.new(Window: Window)
 	HeaderText.Text = Window.Name
 	HeaderText.TextColor3 = Color3.fromRGB(229, 229, 229)
 	HeaderText.TextSize = 21.000
-	HeaderText.TextStrokeColor3 = rares.Colors.TextHighlight
+	HeaderText.TextStrokeColor3 = Color3.fromRGB(205, 67, 218)
 	HeaderText.TextStrokeTransparency = 0.640
 
 	MenuButtonCont.Name = rares:RandomString()
