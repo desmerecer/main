@@ -283,6 +283,7 @@ rares.Colors = {
 	Black = Color3.fromRGB(16, 16, 16),
 	Main = Color3.fromRGB(255, 40, 40)
 };
+
 rares.DragBlacklist = {};
 rares.Version = '1.6';
 rares.Lucide = {
